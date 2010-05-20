@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: _iBlame
+## Notes: fuck u RandomPlayer u got me killed u moron
+## Author: Infected Mushroom
+## Version: 0.1
+## SavedVariables: iBlame_level, iBlame_friendly_mode, iBlame_debug_mode
+iBlame.lua
